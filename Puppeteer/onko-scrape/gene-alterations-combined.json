@@ -1,0 +1,1167 @@
+{
+  "genes_and_variants": [
+    {
+      "variant": "BCR-ABL1 Fusion",
+      "url": "https://www.oncokb.org/gene/ABL1/BCR-ABL1%20Fusion"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "T315I",
+      "url": "https://www.oncokb.org/gene/ABL1/T315I"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "Fusions",
+      "url": "https://www.oncokb.org/gene/DUSP22/Fusions"
+    },
+    {
+      "gene": "DUSP22",
+      "url": "https://www.oncokb.org/gene/DUSP22"
+    },
+    {
+      "variant": "Oncogenic Mutations",
+      "url": "https://www.oncokb.org/gene/TP53/Oncogenic%20Mutations"
+    },
+    {
+      "gene": "TP53",
+      "url": "https://www.oncokb.org/gene/TP53"
+    },
+    {
+      "variant": "V600",
+      "url": "https://www.oncokb.org/gene/BRAF/V600"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "V600E",
+      "url": "https://www.oncokb.org/gene/BRAF/V600E"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "V600K",
+      "url": "https://www.oncokb.org/gene/BRAF/V600K"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "L858R",
+      "url": "https://www.oncokb.org/gene/EGFR/L858R"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "G719",
+      "url": "https://www.oncokb.org/gene/EGFR/G719"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "L861Q",
+      "url": "https://www.oncokb.org/gene/EGFR/L861Q"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "S768I",
+      "url": "https://www.oncokb.org/gene/EGFR/S768I"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "T790M",
+      "url": "https://www.oncokb.org/gene/EGFR/T790M"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "Amplification",
+      "url": "https://www.oncokb.org/gene/PDCD1LG2/Amplification"
+    },
+    {
+      "gene": "PDCD1LG2",
+      "url": "https://www.oncokb.org/gene/PDCD1LG2"
+    },
+    {
+      "variant": "D538",
+      "url": "https://www.oncokb.org/gene/ESR1/D538"
+    },
+    {
+      "gene": "ESR1",
+      "url": "https://www.oncokb.org/gene/ESR1"
+    },
+    {
+      "variant": "A682G",
+      "url": "https://www.oncokb.org/gene/EZH2/A682G"
+    },
+    {
+      "gene": "EZH2",
+      "url": "https://www.oncokb.org/gene/EZH2"
+    },
+    {
+      "variant": "G370C",
+      "url": "https://www.oncokb.org/gene/FGFR3/G370C"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "R248C",
+      "url": "https://www.oncokb.org/gene/FGFR3/R248C"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "S249C",
+      "url": "https://www.oncokb.org/gene/FGFR3/S249C"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "Y373C",
+      "url": "https://www.oncokb.org/gene/FGFR3/Y373C"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "D835",
+      "url": "https://www.oncokb.org/gene/FLT3/D835"
+    },
+    {
+      "gene": "FLT3",
+      "url": "https://www.oncokb.org/gene/FLT3"
+    },
+    {
+      "variant": "I836",
+      "url": "https://www.oncokb.org/gene/FLT3/I836"
+    },
+    {
+      "gene": "FLT3",
+      "url": "https://www.oncokb.org/gene/FLT3"
+    },
+    {
+      "variant": "Internal tandem duplication"
+    },
+    {
+      "gene": "FLT3",
+      "url": "https://www.oncokb.org/gene/FLT3"
+    },
+    {
+      "variant": "R132",
+      "url": "https://www.oncokb.org/gene/IDH1/R132"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R132C",
+      "url": "https://www.oncokb.org/gene/IDH1/R132C"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R132G",
+      "url": "https://www.oncokb.org/gene/IDH1/R132G"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R132H",
+      "url": "https://www.oncokb.org/gene/IDH1/R132H"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R132L",
+      "url": "https://www.oncokb.org/gene/IDH1/R132L"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R132S",
+      "url": "https://www.oncokb.org/gene/IDH1/R132S"
+    },
+    {
+      "gene": "IDH1",
+      "url": "https://www.oncokb.org/gene/IDH1"
+    },
+    {
+      "variant": "R140G",
+      "url": "https://www.oncokb.org/gene/IDH2/R140G"
+    },
+    {
+      "gene": "IDH2",
+      "url": "https://www.oncokb.org/gene/IDH2"
+    },
+    {
+      "variant": "D816",
+      "url": "https://www.oncokb.org/gene/KIT/D816"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "G12C",
+      "url": "https://www.oncokb.org/gene/KRAS/G12C"
+    },
+    {
+      "gene": "KRAS",
+      "url": "https://www.oncokb.org/gene/KRAS"
+    },
+    {
+      "variant": "Wildtype",
+      "url": "https://www.oncokb.org/gene/NRAS/Wildtype"
+    },
+    {
+      "gene": "NRAS",
+      "url": "https://www.oncokb.org/gene/NRAS"
+    },
+    {
+      "variant": "D1010",
+      "url": "https://www.oncokb.org/gene/MET/D1010"
+    },
+    {
+      "gene": "MET",
+      "url": "https://www.oncokb.org/gene/MET"
+    },
+    {
+      "variant": "Microsatellite Instability-High"
+    },
+    {
+      "gene": "Other%20Biomarkers"
+    },
+    {
+      "variant": "Tumor Mutational Burden-High"
+    },
+    {
+      "gene": "Other%20Biomarkers"
+    },
+    {
+      "variant": "COL1A1-PDGFB Fusion",
+      "url": "https://www.oncokb.org/gene/PDGFB/COL1A1-PDGFB%20Fusion"
+    },
+    {
+      "gene": "PDGFB",
+      "url": "https://www.oncokb.org/gene/PDGFB"
+    },
+    {
+      "variant": "FIP1L1-PDGFRA Fusion",
+      "url": "https://www.oncokb.org/gene/PDGFRA/FIP1L1-PDGFRA%20Fusion"
+    },
+    {
+      "gene": "PDGFRA",
+      "url": "https://www.oncokb.org/gene/PDGFRA"
+    },
+    {
+      "variant": "C420R",
+      "url": "https://www.oncokb.org/gene/PIK3CA/C420R"
+    },
+    {
+      "gene": "PIK3CA",
+      "url": "https://www.oncokb.org/gene/PIK3CA"
+    },
+    {
+      "variant": "PML-RARA Fusion",
+      "url": "https://www.oncokb.org/gene/RARA/PML-RARA%20Fusion"
+    },
+    {
+      "gene": "RARA",
+      "url": "https://www.oncokb.org/gene/RARA"
+    },
+    {
+      "variant": "Deletion",
+      "url": "https://www.oncokb.org/gene/IKZF1/Deletion"
+    },
+    {
+      "gene": "IKZF1",
+      "url": "https://www.oncokb.org/gene/IKZF1"
+    },
+    {
+      "variant": "E255K",
+      "url": "https://www.oncokb.org/gene/ABL1/E255K"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "F317C",
+      "url": "https://www.oncokb.org/gene/ABL1/F317C"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "F317L",
+      "url": "https://www.oncokb.org/gene/ABL1/F317L"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "G250E",
+      "url": "https://www.oncokb.org/gene/ABL1/G250E"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "V299L",
+      "url": "https://www.oncokb.org/gene/ABL1/V299L"
+    },
+    {
+      "gene": "ABL1",
+      "url": "https://www.oncokb.org/gene/ABL1"
+    },
+    {
+      "variant": "C481S",
+      "url": "https://www.oncokb.org/gene/BTK/C481S"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "G595R",
+      "url": "https://www.oncokb.org/gene/NTRK1/G595R"
+    },
+    {
+      "gene": "NTRK1",
+      "url": "https://www.oncokb.org/gene/NTRK1"
+    },
+    {
+      "variant": "F617L",
+      "url": "https://www.oncokb.org/gene/NTRK3/F617L"
+    },
+    {
+      "gene": "NTRK3",
+      "url": "https://www.oncokb.org/gene/NTRK3"
+    },
+    {
+      "variant": "G623R",
+      "url": "https://www.oncokb.org/gene/NTRK3/G623R"
+    },
+    {
+      "gene": "NTRK3",
+      "url": "https://www.oncokb.org/gene/NTRK3"
+    },
+    {
+      "variant": "G696A",
+      "url": "https://www.oncokb.org/gene/NTRK3/G696A"
+    },
+    {
+      "gene": "NTRK3",
+      "url": "https://www.oncokb.org/gene/NTRK3"
+    },
+    {
+      "variant": "D842V",
+      "url": "https://www.oncokb.org/gene/PDGFRA/D842V"
+    },
+    {
+      "gene": "PDGFRA",
+      "url": "https://www.oncokb.org/gene/PDGFRA"
+    },
+    {
+      "variant": "Oncogenic Mutations (excluding V600)",
+      "url": "https://www.oncokb.org/gene/BRAF/Oncogenic%20Mutations%20(excluding%20V600)"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "V600 (excluding V600E and V600K)",
+      "url": "https://www.oncokb.org/gene/BRAF/V600%20(excluding%20V600E%20and%20V600K)"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "A763_Y764insFQEA",
+      "url": "https://www.oncokb.org/gene/EGFR/A763_Y764insFQEA"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "V422del",
+      "url": "https://www.oncokb.org/gene/ESR1/V422del"
+    },
+    {
+      "gene": "ESR1",
+      "url": "https://www.oncokb.org/gene/ESR1"
+    },
+    {
+      "gene": "EZH2",
+      "url": "https://www.oncokb.org/gene/EZH2"
+    },
+    {
+      "variant": "A829P",
+      "url": "https://www.oncokb.org/gene/KIT/A829P"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "D579del",
+      "url": "https://www.oncokb.org/gene/KIT/D579del"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "gene": "PIK3CA",
+      "url": "https://www.oncokb.org/gene/PIK3CA"
+    },
+    {
+      "variant": "E17K",
+      "url": "https://www.oncokb.org/gene/AKT1/E17K"
+    },
+    {
+      "gene": "AKT1",
+      "url": "https://www.oncokb.org/gene/AKT1"
+    },
+    {
+      "variant": "K601",
+      "url": "https://www.oncokb.org/gene/BRAF/K601"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "L597",
+      "url": "https://www.oncokb.org/gene/BRAF/L597"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "E709_T710delinsD",
+      "url": "https://www.oncokb.org/gene/EGFR/E709_T710delinsD"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "Kinase Domain Duplication",
+      "url": "https://www.oncokb.org/gene/EGFR/Kinase%20Domain%20Duplication"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "Oncogenic Mutations (excluding Fusions)",
+      "url": "https://www.oncokb.org/gene/ESR1/Oncogenic%20Mutations%20(excluding%20Fusions)"
+    },
+    {
+      "gene": "ESR1",
+      "url": "https://www.oncokb.org/gene/ESR1"
+    },
+    {
+      "variant": "G380R",
+      "url": "https://www.oncokb.org/gene/FGFR3/G380R"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "K650",
+      "url": "https://www.oncokb.org/gene/FGFR3/K650"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "S371C",
+      "url": "https://www.oncokb.org/gene/FGFR3/S371C"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "R172",
+      "url": "https://www.oncokb.org/gene/IDH2/R172"
+    },
+    {
+      "gene": "IDH2",
+      "url": "https://www.oncokb.org/gene/IDH2"
+    },
+    {
+      "variant": "PCM1-JAK2 Fusion",
+      "url": "https://www.oncokb.org/gene/JAK2/PCM1-JAK2%20Fusion"
+    },
+    {
+      "gene": "JAK2",
+      "url": "https://www.oncokb.org/gene/JAK2"
+    },
+    {
+      "variant": "Y1003",
+      "url": "https://www.oncokb.org/gene/MET/Y1003"
+    },
+    {
+      "gene": "MET",
+      "url": "https://www.oncokb.org/gene/MET"
+    },
+    {
+      "variant": "E2014K",
+      "url": "https://www.oncokb.org/gene/MTOR/E2014K"
+    },
+    {
+      "gene": "MTOR",
+      "url": "https://www.oncokb.org/gene/MTOR"
+    },
+    {
+      "variant": "E2419K",
+      "url": "https://www.oncokb.org/gene/MTOR/E2419K"
+    },
+    {
+      "gene": "MTOR",
+      "url": "https://www.oncokb.org/gene/MTOR"
+    },
+    {
+      "variant": "L2209V",
+      "url": "https://www.oncokb.org/gene/MTOR/L2209V"
+    },
+    {
+      "gene": "MTOR",
+      "url": "https://www.oncokb.org/gene/MTOR"
+    },
+    {
+      "variant": "L2427Q",
+      "url": "https://www.oncokb.org/gene/MTOR/L2427Q"
+    },
+    {
+      "gene": "MTOR",
+      "url": "https://www.oncokb.org/gene/MTOR"
+    },
+    {
+      "variant": "Q2223K",
+      "url": "https://www.oncokb.org/gene/MTOR/Q2223K"
+    },
+    {
+      "gene": "MTOR",
+      "url": "https://www.oncokb.org/gene/MTOR"
+    },
+    {
+      "variant": "Truncating Mutations",
+      "url": "https://www.oncokb.org/gene/CDK12/Truncating%20Mutations"
+    },
+    {
+      "gene": "CDK12",
+      "url": "https://www.oncokb.org/gene/CDK12"
+    },
+    {
+      "variant": "Y220C",
+      "url": "https://www.oncokb.org/gene/TP53/Y220C"
+    },
+    {
+      "gene": "TP53",
+      "url": "https://www.oncokb.org/gene/TP53"
+    },
+    {
+      "variant": "G464",
+      "url": "https://www.oncokb.org/gene/BRAF/G464"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "G469A",
+      "url": "https://www.oncokb.org/gene/BRAF/G469A"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "G469R",
+      "url": "https://www.oncokb.org/gene/BRAF/G469R"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "G469V",
+      "url": "https://www.oncokb.org/gene/BRAF/G469V"
+    },
+    {
+      "gene": "BRAF",
+      "url": "https://www.oncokb.org/gene/BRAF"
+    },
+    {
+      "variant": "A289V",
+      "url": "https://www.oncokb.org/gene/EGFR/A289V"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "R108K",
+      "url": "https://www.oncokb.org/gene/EGFR/R108K"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "T263P",
+      "url": "https://www.oncokb.org/gene/EGFR/T263P"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "D761Y",
+      "url": "https://www.oncokb.org/gene/EGFR/D761Y"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "L718V",
+      "url": "https://www.oncokb.org/gene/EGFR/L718V"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "L747P",
+      "url": "https://www.oncokb.org/gene/EGFR/L747P"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "EWSR1-FLI1 Fusion",
+      "url": "https://www.oncokb.org/gene/FLI1/EWSR1-FLI1%20Fusion"
+    },
+    {
+      "gene": "FLI1",
+      "url": "https://www.oncokb.org/gene/FLI1"
+    },
+    {
+      "variant": "G12",
+      "url": "https://www.oncokb.org/gene/KRAS/G12"
+    },
+    {
+      "gene": "KRAS",
+      "url": "https://www.oncokb.org/gene/KRAS"
+    },
+    {
+      "variant": "G12D",
+      "url": "https://www.oncokb.org/gene/KRAS/G12D"
+    },
+    {
+      "gene": "KRAS",
+      "url": "https://www.oncokb.org/gene/KRAS"
+    },
+    {
+      "variant": "H1047R",
+      "url": "https://www.oncokb.org/gene/PIK3CA/H1047R"
+    },
+    {
+      "gene": "PIK3CA",
+      "url": "https://www.oncokb.org/gene/PIK3CA"
+    },
+    {
+      "variant": "C1156Y",
+      "url": "https://www.oncokb.org/gene/ALK/C1156Y"
+    },
+    {
+      "gene": "ALK",
+      "url": "https://www.oncokb.org/gene/ALK"
+    },
+    {
+      "variant": "G1202R",
+      "url": "https://www.oncokb.org/gene/ALK/G1202R"
+    },
+    {
+      "gene": "ALK",
+      "url": "https://www.oncokb.org/gene/ALK"
+    },
+    {
+      "variant": "G1269A",
+      "url": "https://www.oncokb.org/gene/ALK/G1269A"
+    },
+    {
+      "gene": "ALK",
+      "url": "https://www.oncokb.org/gene/ALK"
+    },
+    {
+      "variant": "I1171N",
+      "url": "https://www.oncokb.org/gene/ALK/I1171N"
+    },
+    {
+      "gene": "ALK",
+      "url": "https://www.oncokb.org/gene/ALK"
+    },
+    {
+      "variant": "L1196M",
+      "url": "https://www.oncokb.org/gene/ALK/L1196M"
+    },
+    {
+      "gene": "ALK",
+      "url": "https://www.oncokb.org/gene/ALK"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "C481F",
+      "url": "https://www.oncokb.org/gene/BTK/C481F"
+    },
+    {
+      "variant": "C481R",
+      "url": "https://www.oncokb.org/gene/BTK/C481R"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "C481Y",
+      "url": "https://www.oncokb.org/gene/BTK/C481Y"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "T316A",
+      "url": "https://www.oncokb.org/gene/BTK/T316A"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "T474I",
+      "url": "https://www.oncokb.org/gene/BTK/T474I"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "T474S",
+      "url": "https://www.oncokb.org/gene/BTK/T474S"
+    },
+    {
+      "gene": "BTK",
+      "url": "https://www.oncokb.org/gene/BTK"
+    },
+    {
+      "variant": "C797G",
+      "url": "https://www.oncokb.org/gene/EGFR/C797G"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "C797S",
+      "url": "https://www.oncokb.org/gene/EGFR/C797S"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "G724S",
+      "url": "https://www.oncokb.org/gene/EGFR/G724S"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "L792H",
+      "url": "https://www.oncokb.org/gene/EGFR/L792H"
+    },
+    {
+      "gene": "EGFR",
+      "url": "https://www.oncokb.org/gene/EGFR"
+    },
+    {
+      "variant": "C809G",
+      "url": "https://www.oncokb.org/gene/KIT/C809G"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "D820",
+      "url": "https://www.oncokb.org/gene/KIT/D820"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "N822",
+      "url": "https://www.oncokb.org/gene/KIT/N822"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "T670I",
+      "url": "https://www.oncokb.org/gene/KIT/T670I"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "V654A",
+      "url": "https://www.oncokb.org/gene/KIT/V654A"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "Y823D",
+      "url": "https://www.oncokb.org/gene/KIT/Y823D"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "D1228N",
+      "url": "https://www.oncokb.org/gene/MET/D1228N"
+    },
+    {
+      "gene": "MET",
+      "url": "https://www.oncokb.org/gene/MET"
+    },
+    {
+      "variant": "Y1230H",
+      "url": "https://www.oncokb.org/gene/MET/Y1230H"
+    },
+    {
+      "gene": "MET",
+      "url": "https://www.oncokb.org/gene/MET"
+    },
+    {
+      "variant": "CBFB-MYH11 Fusion",
+      "url": "https://www.oncokb.org/gene/CBFB/CBFB-MYH11%20Fusion"
+    },
+    {
+      "gene": "CBFB",
+      "url": "https://www.oncokb.org/gene/CBFB"
+    },
+    {
+      "variant": "DEK-NUP214 Fusion",
+      "url": "https://www.oncokb.org/gene/DEK/DEK-NUP214%20Fusion"
+    },
+    {
+      "gene": "DEK",
+      "url": "https://www.oncokb.org/gene/DEK"
+    },
+    {
+      "variant": "IGH-IL3 Fusion",
+      "url": "https://www.oncokb.org/gene/IL3/IGH-IL3%20Fusion"
+    },
+    {
+      "gene": "IL3",
+      "url": "https://www.oncokb.org/gene/IL3"
+    },
+    {
+      "variant": "KMT2A-MLLT3 Fusion",
+      "url": "https://www.oncokb.org/gene/KMT2A/KMT2A-MLLT3%20Fusion"
+    },
+    {
+      "gene": "KMT2A",
+      "url": "https://www.oncokb.org/gene/KMT2A"
+    },
+    {
+      "variant": "RBM15-MRTFA Fusion",
+      "url": "https://www.oncokb.org/gene/RBM15/RBM15-MRTFA%20Fusion"
+    },
+    {
+      "gene": "RBM15",
+      "url": "https://www.oncokb.org/gene/RBM15"
+    },
+    {
+      "variant": "ETV6-RUNX1 Fusion",
+      "url": "https://www.oncokb.org/gene/RUNX1/ETV6-RUNX1%20Fusion"
+    },
+    {
+      "gene": "RUNX1",
+      "url": "https://www.oncokb.org/gene/RUNX1"
+    },
+    {
+      "variant": "RUNX1-RUNX1T1 Fusion",
+      "url": "https://www.oncokb.org/gene/RUNX1/RUNX1-RUNX1T1%20Fusion"
+    },
+    {
+      "gene": "RUNX1",
+      "url": "https://www.oncokb.org/gene/RUNX1"
+    },
+    {
+      "variant": "TCF3-PBX1 Fusion",
+      "url": "https://www.oncokb.org/gene/TCF3/TCF3-PBX1%20Fusion"
+    },
+    {
+      "gene": "TCF3",
+      "url": "https://www.oncokb.org/gene/TCF3"
+    },
+    {
+      "variant": "IGH-BCL2 Fusion",
+      "url": "https://www.oncokb.org/gene/BCL2/IGH-BCL2%20Fusion"
+    },
+    {
+      "gene": "BCL2",
+      "url": "https://www.oncokb.org/gene/BCL2"
+    },
+    {
+      "variant": "IGH-CCND1 Fusion",
+      "url": "https://www.oncokb.org/gene/CCND1/IGH-CCND1%20Fusion"
+    },
+    {
+      "gene": "CCND1",
+      "url": "https://www.oncokb.org/gene/CCND1"
+    },
+    {
+      "variant": "KAT6A-CREBBP Fusion",
+      "url": "https://www.oncokb.org/gene/CREBBP/KAT6A-CREBBP%20Fusion"
+    },
+    {
+      "gene": "CREBBP",
+      "url": "https://www.oncokb.org/gene/CREBBP"
+    },
+    {
+      "variant": "MYB-GATA1 Fusion",
+      "url": "https://www.oncokb.org/gene/GATA1/MYB-GATA1%20Fusion"
+    },
+    {
+      "gene": "GATA1",
+      "url": "https://www.oncokb.org/gene/GATA1"
+    },
+    {
+      "variant": "V617F",
+      "url": "https://www.oncokb.org/gene/JAK2/V617F"
+    },
+    {
+      "gene": "JAK2",
+      "url": "https://www.oncokb.org/gene/JAK2"
+    },
+    {
+      "variant": "D816V",
+      "url": "https://www.oncokb.org/gene/KIT/D816V"
+    },
+    {
+      "gene": "KIT",
+      "url": "https://www.oncokb.org/gene/KIT"
+    },
+    {
+      "variant": "W515",
+      "url": "https://www.oncokb.org/gene/MPL/W515"
+    },
+    {
+      "gene": "MPL",
+      "url": "https://www.oncokb.org/gene/MPL"
+    },
+    {
+      "variant": "L265P",
+      "url": "https://www.oncokb.org/gene/MYD88/L265P"
+    },
+    {
+      "gene": "MYD88",
+      "url": "https://www.oncokb.org/gene/MYD88"
+    },
+    {
+      "variant": "D868",
+      "url": "https://www.oncokb.org/gene/SETBP1/D868"
+    },
+    {
+      "gene": "SETBP1",
+      "url": "https://www.oncokb.org/gene/SETBP1"
+    },
+    {
+      "variant": "P95",
+      "url": "https://www.oncokb.org/gene/SRSF2/P95"
+    },
+    {
+      "gene": "SRSF2",
+      "url": "https://www.oncokb.org/gene/SRSF2"
+    },
+    {
+      "variant": "TRA-TCL1A Fusion",
+      "url": "https://www.oncokb.org/gene/TCL1A/TRA-TCL1A%20Fusion"
+    },
+    {
+      "gene": "TCL1A",
+      "url": "https://www.oncokb.org/gene/TCL1A"
+    },
+    {
+      "variant": "TRA-TCL1B Fusion",
+      "url": "https://www.oncokb.org/gene/TCL1B/TRA-TCL1B%20Fusion"
+    },
+    {
+      "gene": "TCL1B",
+      "url": "https://www.oncokb.org/gene/TCL1B"
+    },
+    {
+      "variant": "IGH-BCL10 Fusion",
+      "url": "https://www.oncokb.org/gene/BCL10/IGH-BCL10%20Fusion"
+    },
+    {
+      "gene": "BCL10",
+      "url": "https://www.oncokb.org/gene/BCL10"
+    },
+    {
+      "variant": "IGH-FOXP1 Fusion",
+      "url": "https://www.oncokb.org/gene/FOXP1/IGH-FOXP1%20Fusion"
+    },
+    {
+      "gene": "FOXP1",
+      "url": "https://www.oncokb.org/gene/FOXP1"
+    },
+    {
+      "variant": "DUSP22-IRF4 Fusion",
+      "url": "https://www.oncokb.org/gene/IRF4/DUSP22-IRF4%20Fusion"
+    },
+    {
+      "gene": "IRF4",
+      "url": "https://www.oncokb.org/gene/IRF4"
+    },
+    {
+      "variant": "BIRC3-MALT1 Fusion",
+      "url": "https://www.oncokb.org/gene/MALT1/BIRC3-MALT1%20Fusion"
+    },
+    {
+      "gene": "MALT1",
+      "url": "https://www.oncokb.org/gene/MALT1"
+    },
+    {
+      "variant": "IGH-MALT1 Fusion",
+      "url": "https://www.oncokb.org/gene/MALT1/IGH-MALT1%20Fusion"
+    },
+    {
+      "gene": "MALT1",
+      "url": "https://www.oncokb.org/gene/MALT1"
+    },
+    {
+      "variant": "PICALM-MLLT10 Fusion",
+      "url": "https://www.oncokb.org/gene/MLLT10/PICALM-MLLT10%20Fusion"
+    },
+    {
+      "gene": "MLLT10",
+      "url": "https://www.oncokb.org/gene/MLLT10"
+    },
+    {
+      "variant": "IGH-CCND3 Fusion",
+      "url": "https://www.oncokb.org/gene/CCND3/IGH-CCND3%20Fusion"
+    },
+    {
+      "gene": "CCND3",
+      "url": "https://www.oncokb.org/gene/CCND3"
+    },
+    {
+      "variant": "IGH-FGFR3 Fusion",
+      "url": "https://www.oncokb.org/gene/FGFR3/IGH-FGFR3%20Fusion"
+    },
+    {
+      "gene": "FGFR3",
+      "url": "https://www.oncokb.org/gene/FGFR3"
+    },
+    {
+      "variant": "IGH-MAF Fusion",
+      "url": "https://www.oncokb.org/gene/MAF/IGH-MAF%20Fusion"
+    },
+    {
+      "gene": "MAF",
+      "url": "https://www.oncokb.org/gene/MAF"
+    },
+    {
+      "variant": "IGH-MAFB Fusion",
+      "url": "https://www.oncokb.org/gene/MAFB/IGH-MAFB%20Fusion"
+    },
+    {
+      "gene": "MAFB",
+      "url": "https://www.oncokb.org/gene/MAFB"
+    },
+    {
+      "variant": "W515K",
+      "url": "https://www.oncokb.org/gene/MPL/W515K"
+    },
+    {
+      "gene": "MPL",
+      "url": "https://www.oncokb.org/gene/MPL"
+    },
+    {
+      "variant": "W515L",
+      "url": "https://www.oncokb.org/gene/MPL/W515L"
+    },
+    {
+      "gene": "MPL",
+      "url": "https://www.oncokb.org/gene/MPL"
+    }
+  ]
+}
