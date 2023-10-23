@@ -35,7 +35,7 @@ of the following XHR calls:<br /></p>
 
 ### Final Output
 <p>'gene-alterations-combined.json'<br></p>
-<p><br></p>
+
 ### Programming
 Programming Language: Node.js <br />
 IDE: Visual Studio Code <br /><br />
