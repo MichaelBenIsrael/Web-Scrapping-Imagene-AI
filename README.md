@@ -14,18 +14,18 @@ The project has been implemented by utilizing Multithreading for efficient execu
 
 ### Programming
 Programming Language: Python <br />
-IDE: Jupyter Notebook
+IDE: Jupyter Notebook<br />
 
 ### Required packages:
 - BeautifulSoup
 - requests
 - threading
 - json
-[I'm an inline-style link](https://www.google.com)
+
 <br /><br />
 # Puppeteer
 <p> Project Goal:</p>
-<p>Use Puppeteer framwork to scrape the <a href="https://www.oncokb.org/actionable-genes#sections=Tx"></a>OncoKB website for: </p>
+<p>Use Puppeteer framwork to scrape the <a href="https://www.oncokb.org/actionable-genes#sections=Tx">OncoKB</a> website for: </p>
 <p>- Gene & Gene URL<br /> </p>
 <p>- Alterations & Alterations URL<br /> </p>
 <p>Finally, create a combined JSON file by waiting for responses<br /></p>
