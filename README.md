@@ -1,6 +1,6 @@
 # The New York Times Best Sellers Books
 
-Project Goal:
+<p>Project Goal:</p>
 Scrape the New York Times best sellers books site, collect the best sellers books from the last 2 years.
 The project has been implemented by utilizing Multithreading for efficient execution.
 
@@ -21,11 +21,9 @@ IDE: Jupyter Notebook
 - requests
 - threading
 - json
-
-
-<br />
-<br />
-
+  
+<p></p>
+<p></p>
 # Puppeteer
 <p> Project Goal:</p>
 <p>Use Puppeteer framwork to scrape the OncoKB website for: </p>
