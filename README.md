@@ -1,6 +1,7 @@
 # The New York Times Best Sellers Books
 
-This assignment goal was to scrape the New York Times best sellers books site and collect the best sellers books from the last 2 years.
+Project Goal:
+Scrape the New York Times best sellers books site, collect the best sellers books from the last 2 years.
 
 Project's Class Diagram:
 
