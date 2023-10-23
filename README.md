@@ -24,7 +24,7 @@ IDE: Jupyter Notebook<br />
 
 <br /><br />
 # Puppeteer
-<p> Project Goal:</p>
+<p> <b>Project Goal:</b></p>
 <p>Use Puppeteer framwork to scrape the <a href="https://www.oncokb.org/actionable-genes#sections=Tx">OncoKB</a> website for: </p>
 <p>- Gene & Gene URL<br /> </p>
 <p>- Alterations & Alterations URL<br /> </p>
@@ -35,7 +35,7 @@ of the following XHR calls:<br /></p>
 
 ### Programming
 Programming Language: Node.js <br />
-IDE: Visual Studio Code 
+IDE: Visual Studio Code <br />
 
 ### Required packages:
 - Puppeteer
