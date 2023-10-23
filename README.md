@@ -25,7 +25,7 @@ IDE: Jupyter Notebook
 <br /><br />
 # Puppeteer
 <p> Project Goal:</p>
-<p>Use Puppeteer framwork to scrape the OncoKB website for: </p>
+<p>Use Puppeteer framwork to scrape the <a href="https://www.oncokb.org/actionable-genes#sections=Tx"></a>OncoKB website for: </p>
 <p>- Gene & Gene URL<br /> </p>
 <p>- Alterations & Alterations URL<br /> </p>
 <p>Finally, create a combined JSON file by waiting for responses<br /></p>
