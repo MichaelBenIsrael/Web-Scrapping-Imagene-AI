@@ -1,7 +1,7 @@
 # The New York Times Best Sellers Books
 
 <p>Project Goal:</p>
-Scrape the New York Times best sellers books site, collect the best sellers books from the last 2 years.
+Scrape the <a href="https://www.nytimes.com/books/best-sellers/">New York Times Best Sellers Books Site</a>, collect the best sellers books from the last 2 years.
 The project has been implemented by utilizing Multithreading for efficient execution.
 
 ### Project's Class Diagram:
