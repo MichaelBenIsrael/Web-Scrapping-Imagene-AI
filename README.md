@@ -12,8 +12,15 @@ The project has been implemented by utilizing Multithreading for efficient execu
 
 ![NYC_library_scrape_workflow](https://github.com/MichaelBenIsrael/Web-Scrapping-Imagene-AI/assets/73841983/d10a7ad2-d8a8-43bb-8ecb-472208d91db6)
 
+Programming Language: Python
+IDE: Jupyter Notebook
+
 ### Required packages:
 - BeautifulSoup
 - requests
 - threading
 - json
+
+
+
+# Puppeteer
