@@ -22,7 +22,7 @@ IDE: Jupyter Notebook
 - threading
 - json
 
-<h2>Puppeteer</h2>
+# Puppeteer
 
 
 
