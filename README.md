@@ -14,6 +14,7 @@ The project has been implemented by utilizing Multithreading for efficient execu
 
 ### Programming
 Programming Language: Python
+
 IDE: Jupyter Notebook
 
 ### Required packages:
