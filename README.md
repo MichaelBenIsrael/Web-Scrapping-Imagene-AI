@@ -27,14 +27,14 @@ IDE: Jupyter Notebook
 <br />
 
 # Puppeteer
-Project Goal:
-Use Puppeteer framwork to scrape the OncoKB website for:
-●	Gene & Gene URL
-●	Alterations & Alterations URL
+Project Goal: <br />
+Use Puppeteer framwork to scrape the OncoKB website for: <br />
+●	Gene & Gene URL<br />
+●	Alterations & Alterations URL<br />
 <br />
-Finally, create a combined JSON file by waiting for responses
-of the following XHR calls:
-●	https://www.oncokb.org/api/private/utils/numbers/gene/{GENE}
-●	https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT}
+Finally, create a combined JSON file by waiting for responses<br />
+of the following XHR calls:<br />
+●	https://www.oncokb.org/api/private/utils/numbers/gene/{GENE}<br />
+●	https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT}<br />
 
 
