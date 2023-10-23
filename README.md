@@ -21,7 +21,7 @@ IDE: Jupyter Notebook
 - requests
 - threading
 - json
-
+[I'm an inline-style link](https://www.google.com)
 <br /><br />
 # Puppeteer
 <p> Project Goal:</p>
