@@ -38,7 +38,4 @@ Programming Language: Node.js <br />
 IDE: Visual Studio Code 
 
 ### Required packages:
-- BeautifulSoup
-- requests
-- threading
-- json
+- Puppeteer
