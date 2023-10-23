@@ -27,7 +27,7 @@ IDE: Jupyter Notebook
 <br />
 
 # Puppeteer
-Project Goal: <br />
+<p> Project Goal:</p>>
 Use Puppeteer framwork to scrape the OncoKB website for: <br />
 ●	Gene & Gene URL<br />
 ●	Alterations & Alterations URL<br />
