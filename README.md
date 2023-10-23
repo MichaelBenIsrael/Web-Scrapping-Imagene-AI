@@ -33,4 +33,12 @@ of the following XHR calls:<br /></p>
 <p>- https://www.oncokb.org/api/private/utils/numbers/gene/{GENE} - gene field in combined JSON<br /></p>
 <p>- https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT} - variant field in combined JSON<br /></p>
 
+### Programming
+Programming Language: Node.js <br />
+IDE: Visual Studio Code 
 
+### Required packages:
+- BeautifulSoup
+- requests
+- threading
+- json
