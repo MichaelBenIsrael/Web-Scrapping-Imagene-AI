@@ -34,7 +34,7 @@ of the following XHR calls:<br /></p>
 <p>- https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT} - variant field in combined JSON.<br /><br /></p>
 
 ### Final Output
-<p>'gene-alterations-combined.json'<br></p>
+<p>'gene-alterations-combined.json'<br><br></p>
 
 ### Programming
 Programming Language: Node.js <br />
