@@ -31,9 +31,9 @@ IDE: Jupyter Notebook<br />
 <p>Finally, create a combined JSON file by waiting for responses<br /></p>
 of the following XHR calls:<br /></p>
 <p>- https://www.oncokb.org/api/private/utils/numbers/gene/{GENE} - gene field in combined JSON<br /></p>
-<p>- https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT} - variant field in combined JSON.<br /><br /></p>
+<p>- https://www.oncokb.org/api/v1/variants/lookup?hugoSymbol={GENE}&variant={VARIANT} - variant field in combined JSON.<br /></p>
 
-### Programming
+### <br />Programming
 Programming Language: Node.js <br />
 IDE: Visual Studio Code <br /><br />
 
