@@ -2,6 +2,7 @@
 
 Project Goal:
 Scrape the New York Times best sellers books site, collect the best sellers books from the last 2 years.
+The project has been implemented by utilizing Multithreading for efficient execution.
 
 ### Project's Class Diagram:
 
